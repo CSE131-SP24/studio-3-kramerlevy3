@@ -21,12 +21,12 @@ public class Sieve {
 				}
 			}
 
-				}
-			
+		}
+
 		for (int i = 0; i<n; i++){
 			if (numbers[i]==true) {
 				System.out.println(i);
-}
+			}
 
 		}
 	}
